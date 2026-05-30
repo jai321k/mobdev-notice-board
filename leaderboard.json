@@ -1,0 +1,16 @@
+{
+  "players": [
+    {
+      "rank": 1,
+      "name": "Jai"
+    },
+    {
+      "rank": 2,
+      "name": "Alex"
+    },
+    {
+      "rank": 3,
+      "name": "Player123"
+    }
+  ]
+}
