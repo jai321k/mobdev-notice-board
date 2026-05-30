@@ -1,24 +1,54 @@
 {
   "players": [
-    {
-      "rank": 1,
-      "name": "Jai"
-    },
-    {
-      "rank": 2,
-      "name": "Shadow"
-    },
-    {
-      "rank": 3,
-      "name": "ProGamer"
-    },
-    {
-      "rank": 4,
-      "name": "NoobMaster"
-    },
-    {
-      "rank": 5,
-      "name": "NoobMaster3"
-    }
+    { "rank": 1, "name": "Jai" },
+    { "rank": 2, "name": "Shadow" },
+    { "rank": 3, "name": "ProGamer" },
+    { "rank": 4, "name": "NoobMaster" },
+    { "rank": 5, "name": "DarkKnight" },
+    { "rank": 6, "name": "FireFox" },
+    { "rank": 7, "name": "Thunder" },
+    { "rank": 8, "name": "Ghost" },
+    { "rank": 9, "name": "SniperX" },
+    { "rank": 10, "name": "Dragon" },
+    { "rank": 11, "name": "Blaze" },
+    { "rank": 12, "name": "Venom" },
+    { "rank": 13, "name": "Alpha" },
+    { "rank": 14, "name": "Hunter" },
+    { "rank": 15, "name": "Legend" },
+    { "rank": 16, "name": "Rogue" },
+    { "rank": 17, "name": "Titan" },
+    { "rank": 18, "name": "Falcon" },
+    { "rank": 19, "name": "Cyclone" },
+    { "rank": 20, "name": "Storm" },
+    { "rank": 21, "name": "Ninja" },
+    { "rank": 22, "name": "Warrior" },
+    { "rank": 23, "name": "Ace" },
+    { "rank": 24, "name": "Phoenix" },
+    { "rank": 25, "name": "Wolf" },
+    { "rank": 26, "name": "Reaper" },
+    { "rank": 27, "name": "Viper" },
+    { "rank": 28, "name": "Crusher" },
+    { "rank": 29, "name": "Spartan" },
+    { "rank": 30, "name": "Inferno" },
+    { "rank": 31, "name": "Knight" },
+    { "rank": 32, "name": "Eagle" },
+    { "rank": 33, "name": "Tornado" },
+    { "rank": 34, "name": "Gladiator" },
+    { "rank": 35, "name": "Ranger" },
+    { "rank": 36, "name": "Samurai" },
+    { "rank": 37, "name": "Pirate" },
+    { "rank": 38, "name": "Predator" },
+    { "rank": 39, "name": "Maverick" },
+    { "rank": 40, "name": "Destroyer" },
+    { "rank": 41, "name": "Specter" },
+    { "rank": 42, "name": "Frost" },
+    { "rank": 43, "name": "Cobra" },
+    { "rank": 44, "name": "Raptor" },
+    { "rank": 45, "name": "Mercury" },
+    { "rank": 46, "name": "Onyx" },
+    { "rank": 47, "name": "Bullet" },
+    { "rank": 48, "name": "Nova" },
+    { "rank": 49, "name": "Havoc" },
+    { "rank": 50, "name": "Champion" }
   ]
 }
