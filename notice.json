@@ -1,5 +1,8 @@
 {
-  "notice": "🔥 Welcome Players!",
-  "event": "🎉 Easter Event Started!",
-  "update": "🚀 Version 1.0 Released"
+  "messages": [
+    "🔥 Welcome Players!",
+    "🎉 Easter Event Started!",
+    "🚀 Added New Levels",
+    "⚠️ Bug Fix Update Coming Soon"
+  ]
 }
